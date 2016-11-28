@@ -1,10 +1,10 @@
-0
-2016-11-26 20:31:02.438041
-2016-11-26 20:30:02.128665
+1
+2016-11-28 02:54:02.178247
+2016-11-28 02:53:02.888864
 
-update: a reward is gone now :( 
+update: based on log, there is a new reward that just popped up! 
 
 cost: 69.0	remaining: 0
-cost: 79.0	remaining: 0
+cost: 79.0	remaining: 1
 
 https://www.kickstarter.com/projects/freedrum/freedrum-the-drumkit-that-fits-in-your-pocket
